@@ -1,0 +1,15 @@
+{
+  "id": "2b315ca9-9811-44c8-8700-00c956bae917",
+  "label": "nofloex1 NoFlo runtime",
+  "secret": "lifajaqaqa",
+  "permissions": {
+    "lifajaqaqa": [
+      "protocol:component",
+      "protocol:runtime",
+      "protocol:graph",
+      "protocol:network",
+      "component:getsource",
+      "component:setsource"
+    ]
+  }
+}
